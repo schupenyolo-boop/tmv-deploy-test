@@ -1,2 +1,2 @@
 <?php
-echo "DigitalOcean test v3";
+echo "Cursor deployment test";
