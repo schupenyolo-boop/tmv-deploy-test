@@ -1,2 +1,2 @@
 <?php
-echo "Broken version";
+echo "GitHub deploy test v2";
