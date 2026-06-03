@@ -1,2 +1,2 @@
 <?php
-echo "Cursor deployment test";
+echo "Auto deploy worked";
